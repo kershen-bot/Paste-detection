@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install pyinstaller
-      - run: pyinstaller --onefile --name MyApp teste.py
+      - run: pyinstaller --onefile --name MyApp "Paste detection.py"
       - uses: actions/upload-artifact@v3
         with:
           name: MyApp-${{ matrix.os }}
