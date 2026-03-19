@@ -1,0 +1,22 @@
+name: Build App
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: pip install pyinstaller
+      - run: pyinstaller --onefile --name MyApp teste.py
+      - uses: actions/upload-artifact@v3
+        with:
+          name: MyApp-${{ matrix.os }}
+          path: dist/
