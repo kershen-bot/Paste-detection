@@ -15,4 +15,4 @@ Credit's
 https://claude.ai/
 #Fixing the bugs of the project and providing some of the code for the project, also helping with the development of the project.
 https://chatgpt.com/
-Coding the first version of the project, providing the base code and helping with the development of the project.<img width="1440" height="898" alt="Image of 
+Coding the first version of the project, providing the base code and helping with the development of the project.
