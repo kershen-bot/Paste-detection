@@ -3,7 +3,7 @@ This is a repository that types for you.
 The reason to install this repo.
 So you have a long paragraph that you have, and you want to put it into a document, but the version history says you pasted everything in. So you start up the Paste-Detection App.
 
-<img width="1440" height="898" alt="Image of app" src="https://github.com/user-attachments/assets/8d2f0f60-a265-442e-b369-a10ec11ea4ca" />
+<img width="1440" height="900" alt="Image of app" src="https://github.com/user-attachments/assets/8d2f0f60-a265-442e-b369-a10ec11ea4ca" />
 
 Steps to use this app
 1. Start the app up
