@@ -1,3 +1,4 @@
+#README.md
 This is a repository that types for you.
 
 The reason to install this repo.
@@ -13,6 +14,5 @@ Steps to use this app
 
 Credit's
 https://claude.ai/
-#Fixing the bugs of the project and providing some of the code for the project, also helping with the development of the project.
+
 https://chatgpt.com/
-Coding the first version of the project, providing the base code and helping with the development of the project.
