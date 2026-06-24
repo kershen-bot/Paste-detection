@@ -1,6 +1,6 @@
 This is a repository that types for you.
 
-The reason to install this repo.
+The reason to install this repo is that,
 You have a long paragraph and want to put it into a document, but the version history shows that everything was pasted in. So you start up the Paste-Detection App.
 
 <img width="1440" height="900" alt="Image of app" src="https://github.com/user-attachments/assets/8d2f0f60-a265-442e-b369-a10ec11ea4ca" />
